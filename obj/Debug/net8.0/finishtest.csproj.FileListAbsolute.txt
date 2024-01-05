@@ -1,0 +1,14 @@
+/Users/qwer/Develop/finishtest/bin/Debug/net8.0/finishtest
+/Users/qwer/Develop/finishtest/bin/Debug/net8.0/finishtest.deps.json
+/Users/qwer/Develop/finishtest/bin/Debug/net8.0/finishtest.runtimeconfig.json
+/Users/qwer/Develop/finishtest/bin/Debug/net8.0/finishtest.dll
+/Users/qwer/Develop/finishtest/bin/Debug/net8.0/finishtest.pdb
+/Users/qwer/Develop/finishtest/obj/Debug/net8.0/finishtest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/qwer/Develop/finishtest/obj/Debug/net8.0/finishtest.AssemblyInfoInputs.cache
+/Users/qwer/Develop/finishtest/obj/Debug/net8.0/finishtest.AssemblyInfo.cs
+/Users/qwer/Develop/finishtest/obj/Debug/net8.0/finishtest.csproj.CoreCompileInputs.cache
+/Users/qwer/Develop/finishtest/obj/Debug/net8.0/finishtest.dll
+/Users/qwer/Develop/finishtest/obj/Debug/net8.0/refint/finishtest.dll
+/Users/qwer/Develop/finishtest/obj/Debug/net8.0/finishtest.pdb
+/Users/qwer/Develop/finishtest/obj/Debug/net8.0/finishtest.genruntimeconfig.cache
+/Users/qwer/Develop/finishtest/obj/Debug/net8.0/ref/finishtest.dll
